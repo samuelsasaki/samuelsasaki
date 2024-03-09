@@ -7,7 +7,7 @@ export default function Content() {
     <div>
       <section id='hero' className='w-full min-h-screen flex justify-center items-center bg-black text-white'>
         <div>
-          <h1>Hello, world!</h1>
+          <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius voluptates, quam veniam consequatur porro sequi, nesciunt illum consectetur ea dolorum, itaque enim non nam ducimus?</h1>
           <Link href='/about' color='blue.400' _hover={{ color: 'blue.500' }}>
             About
           </Link>
